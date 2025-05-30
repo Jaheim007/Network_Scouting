@@ -1,0 +1,7 @@
+python-nmap
+smbprotocol
+ftplib
+requests
+beautifulsoup4
+flask
+pyyaml

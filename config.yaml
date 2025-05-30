@@ -1,0 +1,13 @@
+network:
+  timeout: 2
+  thread_count: 100
+
+ports:
+  smb: [139, 445]
+  ftp: [21]
+  http: [80, 8080]
+  nfs: [2049]
+
+output:
+  log_file: output/logs.txt
+  result_file: output/results.json
